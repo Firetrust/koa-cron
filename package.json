@@ -1,0 +1,17 @@
+{
+  "name": "koa-cron",
+  "description": "Koa Crontab",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Ryan Johnston <ryan@mediapixel.co.nz>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Firetrust/koa-cron.git"
+  },
+  "dependencies": {
+    "assert": "^1.3.0",
+    "composition": "^2.1.2",
+    "debug": "^2.2.0"
+  },
+  "devDependencies": {}
+}
